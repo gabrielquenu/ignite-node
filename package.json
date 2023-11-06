@@ -1,0 +1,13 @@
+{
+  "name": "ignite",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
